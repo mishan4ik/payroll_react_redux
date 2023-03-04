@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+*{
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.main{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.SalaryBlock{
+
+    margin-top: 300px;
+    width: 550px;
+    height: 500px;
+    border: 2px solid #000;
+    border-radius: 60px;
+    background-color: coral;
+
+}
+
+.block_keep_salary>p{
+
+    margin-top: 50px;
+    font-size: 21px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.block_keep_salary>input{
+
+    margin-top: 50px;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.block_premium{
+
+    margin-top: 50px;
+    
+
+}
+
+.block_premium>p{
+
+    font-size: 21px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.block_tax{
+
+    margin-top: 50px;
+
+}
+
+.block_tax>p{
+
+    font-size: 21px;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.block_btn{
+
+    margin-top: 50px;
+
+}
+
+.block_btn>button{
+
+    width: 200px;
+    height: 35px;
+    background-color: #fff;
+    border-radius: 60px;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
